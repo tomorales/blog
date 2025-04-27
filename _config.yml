@@ -1,0 +1,8 @@
+title: "Tony Morales' Blog"
+description: "Random thoughts, deep dives, and tech explorations."
+baseurl: "" # Leave blank unless your blog is a subpath
+url: "https://blog.tmorales.net" # Your full blog URL
+theme: minima # GitHub Pages default supported theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
